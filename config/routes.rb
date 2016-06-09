@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  mount Tolk::Engine => '/tolk', :as => 'tolk'
   devise_for :users, controllers: {
                        registrations: 'users/registrations',
                        sessions: 'users/sessions',
@@ -255,9 +256,9 @@ Rails.application.routes.draw do
     mount LetterOpenerWeb::Engine, at: "/letter_opener"
   end
 
-  mount Tolk::Engine => '/translate', :as => 'tolk'
+  
 
   # static pages
-  get '/blog' => redirect("http://diario.madrid.es/participa/")
+  get '/blog' => redirect("http://sabarca.cat/")
   resources :pages, path: '/', only: [:show]
 end

@@ -1,6 +1,6 @@
 <% provide :title do %><%= t('pages.titles.more_information') %><% end %>
 <div class="row">
-  <div class="more-information small-12 medium-9 large-7 column">
+  <div class="more-information small-12 medium-7 column">
     <h1><%= t('pages.titles.more_information') %></h1>
     <ul class="no-bullet">
       <li>
@@ -32,24 +32,10 @@
       <% end %>
       </li>
       <li>
-      <%= link_to page_path('spending_proposals_info') do %>
-          <%= t('pages.more_information.titles.spending_proposals_info') %>
+      <%= link_to page_path('alcalde_als_barris') do %>
+          <%= t('pages.more_information.titles.meetings') %>
           <br>
-          <span><%= t('pages.more_information.description.spending_proposals_info') %></span>
-      <% end %>
-      </li>
-      <li>
-      <%= link_to page_path('participation_world') do %>
-          <%= t('pages.more_information.titles.participation_world') %>
-          <br>
-          <span><%= t('pages.more_information.description.participation_world') %></span>
-      <% end %>
-      </li>
-      <li>
-      <%= link_to page_path('participation_facts') do %>
-          <%= t('pages.more_information.titles.participation_facts') %>
-          <br>
-          <span><%= t('pages.more_information.description.participation_facts') %></span>
+          <span><%= t('pages.more_information.description.meetings') %></span>
       <% end %>
       </li>
       <li>
@@ -57,13 +43,6 @@
           <%= t('pages.more_information.titles.faq') %>
           <br>
           <span><%= t('pages.more_information.description.faq') %></span>
-      <% end %>
-      </li>
-      <li>
-      <%= link_to page_path('proposals_info', :anchor => "iii") do %>
-          <%= t('pages.more_information.titles.signature_sheet') %>
-          <br>
-          <span><%= t('pages.more_information.description.signature_sheet') %></span>
       <% end %>
       </li>
     </ul>

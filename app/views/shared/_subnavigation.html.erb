@@ -13,8 +13,16 @@
         <%= link_to t("layouts.header.spending_proposals"), spending_proposals_path, class: ("active" if controller_name == "spending_proposals"), accesskey: "s" %>
       </li>
     <% end %>
+     <li>
+      <%= link_to t("layouts.header.alcalde_als_barris"), page_path('alcalde_als_barris'), class: ("active" if current_page?("/alcalde_als_barris")), accesskey: "b"  %>
+    </li>
+
     <li>
       <%= link_to t("layouts.header.more_information"), page_path('more_information'), class: ("active" if current_page?("/more_information")), accesskey: "i"  %>
     </li>
   </ul>
 </div>
+
+    Status API Training Shop Blog About 
+
+

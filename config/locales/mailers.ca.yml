@@ -1,0 +1,30 @@
+---
+ca:
+  mailers:
+    comment:
+      hi: Hola
+      new_comment_by_html: Hay un nuevo comentario de <b>%{commenter}</b> en
+      subject: Alguien ha comentado en tu %{commentable}
+      title: Nuevo comentario
+    config:
+      manage_email_subscriptions: Puedes dejar de recibir estos emails cambiando tu configuración en
+    email_verification:
+      click_here_to_verify: en este enlace
+      instructions_2_html: Este email es para verificar tu cuenta con <b>%{document_type} %{document_number}</b>. Si esos no son tus datos, por favor no pulses el enlace anterior e ignora este email.
+      instructions_html: Para terminar de verificar tu cuenta de usuario en el Portal de Gobierno Abierto del Ayuntamiento de Sant Andreu de la Barca, necesitamos que pulses %{verification_link}.
+      subject: Verifica tu email
+      thanks: Muchas gracias.
+      title: Verifica tu cuenta con el siguiente enlace
+    reply:
+      hi: Hola
+      new_reply_by_html: Hay una nueva respuesta de <b>%{commenter}</b> a tu comentario en
+      subject: Alguien ha respondido a tu comentario
+      title: Nueva respuesta a tu comentario
+    unfeasible_spending_proposal:
+      hi: "Estimado usuario,"
+      reconsider_html: "En caso de que la fase de creación de propuestas haya acabado, puedes enviarnos el texto de subsanación o mejora de tu propuesta, en el plazo de 48 horas, al correo preparticipativos@sabarca.cat, indicando necesariamente para su tramitación el código %{code} como asunto del correo, correspondiente a tu propuesta."
+      sincerely: "Atentamente"
+      signatory: "DIRECCIÓN GENERAL DE PARTICIPACIÓN CIUDADANA"
+      sorry: "Sentimos las molestias ocasionadas y volvemos a darte las gracias por tu inestimable participación."
+      subject: "Tu propuesta de inversión '%{code}' ha sido marcada como inviable"
+      unfeasible_html: "Desde el Ayuntamiento de Sant Andreu de la Barca queremos agradecer tu participación en los <strong>Presupuestos Participativos de la ciudad de Sant Andreu de la Barca</strong>. Lamentamos informarte de que tu propuesta <strong>'%{title}'</strong> quedará excluida de este proceso participativo por el siguiente motivo:"

@@ -1,0 +1,86 @@
+ca:
+  activerecord:
+    errors:
+      models:
+        user:
+          attributes:
+            email:
+              password_already_set: "Aquest usuari ja té una clau associada"
+    models:
+      activity:
+        one: "activitat"
+        other: "activitats"
+      comment:
+        one: "Comentari"
+        other: "Comentaris"
+      debate:
+        one: "Debat"
+        other: "Debats"
+      tag:
+        one: "Tema"
+        other: "Temes"
+      user:
+        one: "Usuari"
+        other: "Usuaris"
+      moderator:
+        one: "Moderador"
+        other: "Moderadors"
+      administrator:
+        one: "Administrador"
+        other: "Administradors"
+      vote:
+        one: "Vot"
+        other: "Vots"
+      organization:
+        one: "Organització"
+        other: "Organitzacions"
+      proposal:
+        one: "Proposta ciutadana"
+        other: "Propostes ciutadanes"
+      spending_proposal:
+        one: "Proposta d'inversió"
+        other: "Propostes d'inversió"
+    attributes:
+      comment:
+        body: "Comentari"
+        user: "Usuari"
+      debate:
+        author: "Autor"
+        description: "Opinió"
+        terms_of_service: "Condicions del servei"
+        title: "Títol"
+      proposal:
+        author: "Autor"
+        title: "Títol"
+        question: "Pregunta"
+        description: "Descripció"
+        terms_of_service: "Condicions del servei"
+      user:
+        email: "Correu electrònic"
+        username: "Nom d'usuari"
+        password_confirmation: "Confirmació de contrasenya"
+        password: "Contrasenya"
+        phone_number: "Telèfon"
+        official_position: "Càrrec públic"
+        official_level: "Nivell del càrrec"
+        redeemable_code: "Codi de verificació per carta (opcional)"
+      organization:
+        name: "Nom de l'organització"
+        responsible_name: "Persona responsable del col·lectiu"
+      spending_proposal:
+        administrator_id: "Administrador"
+        association_name: "Nom de l'associació"
+        description: "Descripció"
+        external_url: "Enllaç a documentació addicional"
+        geozone_id: "Àmbit d'actuació"
+        title: "Títol"
+    errors:
+      models:
+        debate:
+          attributes:
+            tag_list:
+              less_than_or_equal_to: "els temes han de ser menor o igual que %{count}"
+        proposal:
+          attributes:
+            tag_list:
+              less_than_or_equal_to: "els temes han de ser menor o igual que %{count}"
