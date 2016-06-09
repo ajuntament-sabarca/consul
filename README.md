@@ -66,6 +66,8 @@ But for some actions like voting, you will need a verified user, the seeds file 
  **user:** verified@madrid.es
  **pass:** 12345678
 
+
+Más ayuda en: [Wiki](http://consul.esy.es/P%C3%A1gina_principal) 
 ### OAuth
 
 To test authentication services with external OAuth suppliers - right now Twitter, Facebook and Google - you'll need to create an "application" in each of the supported platforms and set the *key* and *secret* provided in your *secrets.yml*
