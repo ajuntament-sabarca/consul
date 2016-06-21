@@ -1,12 +1,12 @@
-<div class="expanded highlight padding no-margin-top">
+  <div id="fondofoto" class="expanded highlight padding no-margin-top">
   <div class="row">
     <div class="small-12 medium-7 column text-center small-centered">
-      <h1><%= t("layouts.header.open_city_title") %></h1>
-      <p>
+      <h1 class="logowellcome"><%= t("layouts.header.open_city_title") %></h1>
+      <p class="logowellcome">
         <%= t("layouts.header.open_city_slogan_html") %>&nbsp;
         <%= link_to t("layouts.header.more_information"), page_path('more_information') %>
       </p>
-      <div class="small-12 column text-center small-centered">
+      <div class="see-more-boton small-12 column text-center small-centered">
         <%= link_to t("layouts.header.see_all"), proposals_path, class: "button see-more expanded" %>
       </div>
     </div>

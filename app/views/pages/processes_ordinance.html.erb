@@ -15,9 +15,13 @@
 </div>
 
 <div class="process row margin-bottom">
-  <div class="small-12 medium-6 column">
-    <%= markdown t("pages.processes.process_1.text",
-    comment: link_to(t("pages.processes.process_1.comment"), ordenanza_transparencia_path)).html_safe %>
-    <%= link_to t("pages.processes.process_1.button"), ordenanza_transparencia_path, class: "button large" %>
-  </div>
+
+		
+	<div class="small-12 medium-8 column"> <%= t("pages.processes.process_1.text") %></div>
+	<div class="top-margin column"> <%= link_to t("pages.processes.process_1.button"), page_path('ordenanza_de_transparencia'), class: ('button') %></div>
+
+
+
+ </div>
+</div>
 </div>

@@ -21,20 +21,20 @@ Rails.application.configure do
   # Deliver emails to a development mailbox at /letter_opener
   #config.action_mailer.delivery_method = :letter_opener
   
-  config.action_mailer.raise_delivery_errors = false
-  config.action_mailer.default_url_options = { host: 'participa.sabarca.cat', port: 3000 }
-  config.action_mailer.asset_host = "http://participa.sabarca.cat:3000"
+  config.action_mailer.raise_delivery_errors = true
+  config.action_mailer.default_url_options = { host: 'participa.sabarca.cat', port: 80 }
+  config.action_mailer.asset_host = "http://participa.sabarca.cat"
 
   # Deliver emails to a development mailbox at /letter_opener
   #config.action_mailer.delivery_method = :letter_opener
   config.action_mailer.delivery_method = :smtp
   config.action_mailer.smtp_settings = {
-    :address => "mail.sabarca.cat",
+    :address => "srvmail.noe.sab",
     :port => "25",
-    :domain => "sabarca.cat",
+    :domain => "noe.sab",
     :user_name => "web",
     :password => "EtA!pgHZ",
-    :authentication => :plain,
+    :authentication => :login,
     :enable_starttls_auto => true
   }
 

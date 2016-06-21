@@ -1,7 +1,7 @@
 ---
 ca:
   pages:
-    census_terms: Para verificar la cuenta hay que tener 16 años o más y estar empadronado en Sant Andreu de la barca aportando los datos indicados anteriormente, los cuales serán contrastados por la Dirección General de Participación Ciudadana con los ficheros 'Padrón Municipal de Habitantes' cuyo responsable es la Dirección General de Economía y Sector Público y 'Servicios Atención al Ciudadano' cuyo responsable es la Dirección General de Transparencia y Atención a la Ciudadanía. Aceptando el proceso de verificación acepta dar su consentimiento para contrastar dicha información, así como medios de contacto que figuren en dichos ficheros. Los datos aportados serán incorporados y tratados por la Dirección General de Participación Ciudadana en el fichero 'Gestión de Procesos Participativos' indicado anteriormente en las condiciones de uso del portal.
+    census_terms: Para verificar la cuenta hay que tener 16 años o más y estar empadronado en Sant Andreu de la Barca aportando los datos indicados anteriormente, los cuales serán contrastados por la Dirección General de Participación Ciudadana con los ficheros 'Padrón Municipal de Habitantes' cuyo responsable es la Dirección General de Economía y Sector Público y 'Servicios Atención al Ciudadano' cuyo responsable es la Dirección General de Transparencia y Atención a la Ciudadanía. Aceptando el proceso de verificación acepta dar su consentimiento para contrastar dicha información, así como medios de contacto que figuren en dichos ficheros. Los datos aportados serán incorporados y tratados por la Dirección General de Participación Ciudadana en el fichero 'Gestión de Procesos Participativos' indicado anteriormente en las condiciones de uso del portal.
     conditions: Condiciones de uso
     general_terms: Términos y Condiciones
     help_translate:
@@ -76,22 +76,22 @@ ca:
     processes:
       back: Volver
       index:
-        featured: Destacado
-        process_1_title: Ordenanza de Transparencia
-        process_1_description: Sant Andreu de la Barca quiere poner en marcha un sistema de transparencia pública a la altura de los más avanzados del mundo.
-        process_1_button: Más información sobre la Ordenanza
-        process_2_title: Remodelación de Plaza España
-        process_2_description: Contamos contigo para que decidas rellenando una pequeña encuesta como quieres que sea este nuevo espacio en tu ciudad.
-        process_2_button: Más información sobre la remodelación
+        featured: Destacat
+        process_1_title: Ordenança de Transparència i Administració Electrònica
+        process_1_description: Sant Andreu de la Barca disposarà d'un nou text que reguli la transparència i l'administració electrònica.
+        process_1_button: Més informació sobre l'Ordenança
+        process_2_title: Millora dels Parcs Infantils
+        process_2_description: Comptem amb vosaltres perquè deicidim omplint una petita enquesta com voleu que millorem els parcs de Sant Andreu de la Barca.
+        process_2_button: Més informació sobre les millores
         process_3_title: "#PlenoAbierto"
         process_3_description: Envía una propuesta o lanza una pregunta, y si están entre las cinco más votadas podrás formularla en persona a los grupos políticos en el Pleno Abierto del 24 de abril.
         process_3_description_close: Apoya las propuestas y preguntas enviadas. Las cinco más votadas serán formuladas en persona a los grupos políticos en el Pleno Abierto del 24 de abril.
-        process_3_button: Enviar una propuesta o pregunta
-        process_3_button_close: Ver propuestas y preguntas
-        title: Procesos sectoriales
+        process_3_button: Enviar una proposta o pregunta
+        process_3_button_close: Veure propostes i preguntes
+        title: Procesos participatius
       process_1:
-        title: Ayúdanos a mejorar la Ordenanza de Transparencia de la Ciudad del XXXX
-        comment: dejar tus comentarios
+        title: Ajuda'ns a millorar l'Ordenança de Transparència de Sant Andreu de la Barca
+        comment: dexa els teus comentaris
         text: |
           Este es el texto sometido a consulta pública. En breve publicaremos el texto del proyecto inicial de Ordenanza que apruebe la Junta de Gobierno de la Ciudad de XXXX con las aportaciones ciudadanas que se hayan incluido.
 
@@ -103,8 +103,8 @@ ca:
 
         button: Ver borrador con comentarios ciudadanos
       process_2:
-        title: Remodelación de Plaza España
-        text: Contamos contigo para que decidas cómo debe ser este nuevo espacio en tu ciudad.
+        title: Millora dels Parcs Infantils
+        text: Comptem amb vosaltres perquè deicidim omplint una petita enquesta com voleu que millorem els parcs de Sant Andreu de la Barca.
       process_3:
         send_proposal: Enviar una propuesta
         send_question: Hacer una pregunta
