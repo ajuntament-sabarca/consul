@@ -14,7 +14,7 @@ Tolk.config do |config|
   # config.mapping['vi']      = 'Vietnamese'
 
   # Master source of strings to be translated
-  config.primary_locale_name = 'en'
+  config.primary_locale_name = 'ca'
 end
 
 Tolk::ApplicationController.authenticator = proc {

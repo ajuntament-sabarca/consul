@@ -3,21 +3,21 @@ ca:
   management:
     account:
       alert:
-        unverified_user: Solo se pueden editar cuentas de usuarios verificados
+        unverified_user: Solament es poden editar comptes d'usuari verificats
       show:
-        title: Cuenta de usuario
+        title: Compte d'usuari
     account_info:
-      change_user: Cambiar usuario
-      document_number_label: 'Número de documento:'
-      document_type_label: 'Tipo de documento:'
+      change_user: Canviar usuari
+      document_number_label: 'Número de document:'
+      document_type_label: 'Tipus de document:'
       email_label: 'Email:'
-      identified_label: 'Identificado como:'
-      username_label: 'Usuario:'
-    check: Comprobar
+      identified_label: 'Identificat com:'
+      username_label: 'Usuari:'
+    check: Comprovar
     dashboard:
       index:
-        title: Gestión
-        info: Desde aquí puedes gestionar usuarios a través de las acciones listadas en el menú de la izquierda.
+        title: Gestió
+        info: Des d'aquí pots gestionar usuaris a través de les accions llistades en el menú de l'esquerra.
     document_number: Número de documento
     document_type_label: Tipo de documento
     document_verifications:
