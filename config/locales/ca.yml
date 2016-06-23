@@ -198,7 +198,7 @@ ca:
       accessibility: Accessibilitat
       conditions: Condicions d'ús
       consul: aplicació participa.sabarca.cat
-      consul_url: https://github.com/ajuntament-sabarca/participa.sabarca.cat
+      consul_url: https://github.com/ajuntament-sabarca/participa.sabarca
       contact_us: Per a assistència tècnica entra a
       copyright: Ajuntament de Sant Andreu de la Barca, %{year}
       description: Aquest portal utilitza la %{consul} que és %{open_source}.

@@ -18,40 +18,40 @@ ca:
       index:
         title: Gestió
         info: Des d'aquí pots gestionar usuaris a través de les accions llistades en el menú de l'esquerra.
-    document_number: Número de documento
-    document_type_label: Tipo de documento
+    document_number: Número de document
+    document_type_label: Tipus de document
     document_verifications:
-      already_verified: Esta cuenta de usuario ya está verificada.
-      has_no_account_html: Para crear un usuario entre en %{link} y haga clic en la opción <b>'Registrarse'</b> en la parte superior derecha de la pantalla.
-      in_census_has_following_permissions: 'Este usuario puede participar en el Portal de Gobierno Abierto del Ayuntamiento de Sant Andreu de la Barca con las siguientes posibilidades:'
-      not_in_census: Este documento no está registrado en el Padrón Municipal de Sant Andreu de la Barca.
-      not_in_census_info: 'Las personas no empadronadas en Sant Andreu de la Barca pueden participar en el Portal de Gobierno Abierto del Ayuntamiento de Sant Andreu de la Barca con las siguientes posibilidades:'
-      please_check_account_data: Compruebe que los datos anteriores son correctos para proceder a verificar la cuenta completamente.
-      title: Gestión de usuarios
-      under_age: Debes ser mayor de 16 años para verificar tu cuenta.
-      verify: Verificar usuario
+      already_verified: Aquest compte d'usuari ja està verificada.
+      has_no_account_html: Per a crear un usuari entri a %{link} i faci click a l'opció <b>'Registrar-se'</b> a la part superior dreta de la pantalla.
+      in_census_has_following_permissions: "Aquest document por participar en el Portal de Govern Obert de l'Ajuntament de Sant Andreu de la Barca amb les següents possibilitats:"
+      not_in_census: Aquest document no està registrat en el Padró Municipal de Sant Andreu de la Barca.
+      not_in_census_info: "Les persones no empadronades a Sant Andreu de la Barca poden participar en el Portal de Govern de l'Ajuntament de Sant Andreu de la Barca amb les següents possibilitats:"
+      please_check_account_data: Comprovi que les dades anteriors son correctes per a procedir a verificar el compte completament.
+      title: Gestió d'usuaris
+      under_age: Has de ser major de 16 anys per a verificar el teu compte
+      verify: Verificar usuari
     email_label: Email
     email_verifications:
-      already_verified: Esta cuenta de usuario ya está verificada.
-      choose_options: 'Elige una de las opciones siguientes:'
-      document_found_in_census: Este documento está en el registro del padrón municipal, pero todavía no tiene una cuenta de usuario asociada.
-      document_mismatch: Ese email corresponde a un usuario que ya tiene asociado el documento %{document_number}(%{document_type})
-      email_placeholder: Introduce el email de registro
-      email_sent_instructions: Para terminar de verificar esta cuenta es necesario que haga clic en el enlace que le hemos enviado a la dirección de correo que figura arriba. Este paso es necesario para confirmar que dicha cuenta de usuario es suya.
-      if_existing_account: Si la persona ya ha creado una cuenta de usuario en la web
-      if_no_existing_account: Si la persona todavía no ha creado una cuenta de usuario en la web
-      introduce_email: 'Introduce el email con el que creó la cuenta:'
-      send_email: Enviar email de verificación
+      already_verified: Aquest compte d'usuari ja està verificat.
+      choose_options: 'Escull una de les opcions següents:'
+      document_found_in_census: Aquest document està en el registre del padró municipal, però encara no té un compte d'usuari associat.
+      document_mismatch: Aquest email correspon a un usuari que ja té associat el document %{document_number}(%{document_type})
+      email_placeholder: Introdueix l'email de registre
+      email_sent_instructions: Per a acabar de verificar aquest compte és necessari que faci click a l'enllaç que li hem enviat a la direcció de correu que figura adalt. Aquest pas és necessari per a confirmar que el compte d'usuari és seu.
+      if_existing_account: Si la persona ja ha creat un compte d'usuari a la web
+      if_no_existing_account: Si la persona ecnara no ha creat un compte d'usuari a la web
+      introduce_email: "Introdueix l'email amb el que va crear el compte:"
+      send_email: Enviar email de verificació
     menu:
-      create_proposal: Crear propuesta
-      print_proposals: Imprimir propuestas
-      support_proposals: Apoyar propuestas
-      create_spending_proposal: Crear propuesta de inversión
-      print_spending_proposals: Imprimir propts. de inversión
-      support_spending_proposals: Apoyar propts. de inversión
-      title: Gestión
+      create_proposal: Crear proposta
+      print_proposals: Imprimir propostes
+      support_proposals: Recolzar propostes
+      create_spending_proposal: Crear proposta d'inversió
+      print_spending_proposals: Imprimir propts. d'inversió
+      support_spending_proposals: Recolzar propts. d'inversió
+      title: Gestió
       users: Usuarios
-      edit_user_accounts: Editar cuenta de usuario
+      edit_user_accounts: Editar compte d'usuario
     permissions:
       create_proposals: Crear nuevas propuestas
       debates: Participar en debates

@@ -162,7 +162,7 @@ es:
       accessibility: Accesibilidad
       conditions: Condiciones de uso
       consul: aplicación Consul
-      consul_url: https://github.com/consul/consul
+      consul_url: https://github.com/ajuntament-sabarca/participa.sabarca
       contact_us: Para asistencia técnica entra en
       copyright: Ayuntamiento de Sant Andreu de la Barca, %{year}
       description: Este portal usa la %{consul} que es %{open_source}. De Sant Andreu de la Barca, para el mundo entero.
