@@ -34,14 +34,14 @@ Setting.create(key: 'comments_body_max_length', value: '1000')
 puts "Creating Geozones"
 
 geozones = [
-  ["Nucli Antic", "3,86,27,60,134,54,220,88,295,3,348,85,312,108,230,94,270,198,248,239,200,259,57,235,34,164","08740"],
-  ["Centre", "54,234,200,261,185,329,115,355,125,290,105,288,90,261,50,246","08740"],
-  ["El Palau", "199,258,228,253,224,292,199,290,196,292","08740"],
-  ["La Solana", "190,292,222,294,224,324,193,317","08740"],
-  ["La Plana", "190,317,184,342,214,352,218,325","08740"],
+  ["Nucli Antic", "3,86,27,60,134,54,220,88,295,3,348,85,312,108,230,94,270,198,248,239,200,259,57,235,34,164"],
+  ["Centre", "54,234,200,261,185,329,115,355,125,290,105,288,90,261,50,246"],
+  ["El Palau", "199,258,228,253,224,292,199,290,196,292"],
+  ["La Solana", "190,292,222,294,224,324,193,317"],
+  ["La Plana", "190,317,184,342,214,352,218,325"],
 ]
-geozones.each do |name, coordinates, code|
-  Geozone.create(name: name, html_map_coordinates: coordinates, census_code: code)
+geozones.each do |name, coordinates|
+  Geozone.create(name: name, html_map_coordinates: coordinates)
 end
 
 puts "Creating Users"
@@ -62,44 +62,11 @@ valuator = create_user('valuator@sabarca.cat', 'valuator')
 valuator.create_valuator
 
 level_2 = create_user('leveltwo@sabarca.cat', 'level 2')
-
 level_2.update(residence_verified_at: Time.now, confirmed_phone: Faker::PhoneNumber.phone_number, document_number: "2222222222", document_type: "1" )
 
 verified = create_user('verified@sabarca.cat', 'verified')
 verified.update(residence_verified_at: Time.now, confirmed_phone: Faker::PhoneNumber.phone_number, document_type: "1", verified_at: Time.now, document_number: "3333333333")
 
-(1..5).each do |i|
-  org_name = Faker::Company.name
-  org_user = create_user("org#{i}@sabarca.cat", org_name)
-  org_responsible_name = Faker::Name.name
-  org = org_user.create_organization(name: org_name, responsible_name: org_responsible_name)
-
-  verified = [true, false].sample
-  if verified then
-    org.verify
-  else
-    org.reject
-  end
-end
-
-(1..4).each do |i|
-  official = create_user("official#{i}@sabarca.cat")
-  official.update(official_level: i, official_position: "Official position #{i}")
-end
-
-(1..10).each do |i|
-  user = create_user("user#{i}@sabarca.cat")
-  level = [1,2,3].sample
-  if level >= 2 then
-    user.update(residence_verified_at: Time.now, confirmed_phone: Faker::PhoneNumber.phone_number, document_number: Faker::Number.number(10), document_type: "1" )
-  end
-  if level == 3 then
-    user.update(verified_at: Time.now, document_number: Faker::Number.number(10) )
-  end
-end
-
-org_user_ids = User.organizations.pluck(:id)
-not_org_users = User.where(['users.id NOT IN(?)', org_user_ids])
 
 ActsAsTaggableOn::Tag.create!(name:  "Salut i Qualitat de Vida", featured: true, kind: "category")
 ActsAsTaggableOn::Tag.create!(name:  "Interculturalitat", featured: true, kind: "category")
@@ -107,9 +74,11 @@ ActsAsTaggableOn::Tag.create!(name:  "Convivència i civisme", featured: true, k
 ActsAsTaggableOn::Tag.create!(name:  "Comerç", featured: true, kind: "category")
 ActsAsTaggableOn::Tag.create!(name:  "Espai Públic i Espais Verds", featured: true, kind: "category")
 ActsAsTaggableOn::Tag.create!(name:  "Millorem els barris", featured: true, kind: "category")
-ActsAsTaggableOn::Tag.create!(name:  "Noves tencologies", featured: true, kind: "category")
-ActsAsTaggableOn::Tag.create!(name:  "Societat del coneixement", featured: true, kind: "category")
+ActsAsTaggableOn::Tag.create!(name:  "Noves tencologies i societat del coneixement", featured: true, kind: "category")
 ActsAsTaggableOn::Tag.create!(name:  "Atenció Ciutadata", featured: true, kind: "category")
 
+puts "Creating Legislation"
+
+Legislation.create!(title: 'Participatory Democracy', body: 'In order to achieve...')
 
 

@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  
   mount Tolk::Engine => '/tolk', :as => 'tolk'
   devise_for :users, controllers: {
                        registrations: 'users/registrations',

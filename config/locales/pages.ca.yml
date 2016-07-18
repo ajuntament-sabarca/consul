@@ -1,141 +1,141 @@
 ---
 ca:
   pages:
-    census_terms: Para verificar la cuenta hay que tener 16 años o más y estar empadronado en Sant Andreu de la Barca aportando los datos indicados anteriormente, los cuales serán contrastados por la Dirección General de Participación Ciudadana con los ficheros 'Padrón Municipal de Habitantes' cuyo responsable es la Dirección General de Economía y Sector Público y 'Servicios Atención al Ciudadano' cuyo responsable es la Dirección General de Transparencia y Atención a la Ciudadanía. Aceptando el proceso de verificación acepta dar su consentimiento para contrastar dicha información, así como medios de contacto que figuren en dichos ficheros. Los datos aportados serán incorporados y tratados por la Dirección General de Participación Ciudadana en el fichero 'Gestión de Procesos Participativos' indicado anteriormente en las condiciones de uso del portal.
-    conditions: Condiciones de uso
-    general_terms: Términos y Condiciones
+    census_terms: "Per a verificar el teu compte s'ha de tenir 16 anys o més i estar empadronat a Sant Andreu de la Barca aportant les dades indicades anteriorment, les quals seran contrastats per la Direcció General de Participació Ciutadana amb els fitxers 'Padró Municipal d'Habitants' el responsable del qual és la Dirección General d'Economía y Sector Públic i 'Serveis Atenció al Ciutadà' el responsable del qual és la Direcció General de Transparència i Atenció a la Ciutadania. Acceptant el procés de verificació accepta donar el seu consentiment per a contrastar la informació corresponent, així com els mitjans de contacte que figuren en els fitxers esmentats. Les dades aportades seran incorporades i tractades per la Direcció General de Participació Ciutadana en el fitxer 'Gestió de Processos Participatius' indicat anteriorment en les condiciones d'ús del portal."
+    conditions: Condicions d'ús
+    general_terms: Termes i condicions
     help_translate:
-      title: ¡Ayúdanos a traducir!
+      title: ¡Ajuda'ns a traduir!
       text: |-
         Si hablas otros idiomas por favor ayúdanos a que esta web y el software que utiliza esté disponible en otros idiomas.
 
-        Escríbenos a <a href="mailto:ag.gobiernoabierto@sabarca.cat">ag.gobiernoabierto@sabarca.cat</a> para que te demos acceso al sistema de traducción colaborativo.
-        Todos juntos conseguiremos que cualquier país pueda disfrutar de esta herramienta. ¡Un millón de gracias!
+        Escriu-nos a <a href="mailto:ag.gobiernoabierto@sabarca.cat">ag.gobiernoabierto@sabarca.cat</a> per a que et donem accés al sistema de traducció col·laborativa.
+        Tots junts conseguirem que qualsevol país pugui gaudir d'aquesta eina. ¡Un milió de gràcies!
     more_information:
       description:
-        faq: Preguntas frecuentes sobre problemas técnicos
-        how_it_works: Descubre todo lo que puedes hacer en esta web
-        how_to_use: Utilízalo libremente o ayúdanos a mejorarlo, es software libre
+        faq: Preguntes freqüents sobre problemes tècnics
+        how_it_works: Descobreix tot el que pots fer en aquesta web
+        how_to_use: "Utilitza'l lliurement o ajúda'ns a millorar-lo, és software lliure"
         meetings: Visita de l'alcalde als barris
-        participation: Participación Ciudadana, Transparencia y Gobierno Abierto
-        participation_facts: Para perderle el miedo
-        participation_world: Sistemas de participación ciudadana que ya existen en el mundo
-        proposals_info: Crea tus propias propuestas
-        signature_sheet: Hojas de firmas para recoger apoyos
-        spending_proposals_info: Envía tus propuestas de presupuesto
+        participation: Participació Ciutadana, Transparència y Govern Obert
+        participation_facts: Per a pèrdre-li la por
+        participation_world: Sistemes de participació ciutadana que ja existeixen en el món
+        proposals_info: Crea les teves pròpies propostes
+        signature_sheet: Fulls de firmes per a recollir suports
+        spending_proposals_info: Envia les teves propostes de pressupost
       how_it_works:
-        i: Participación
-        i1: Espacio de debate
-        i2: Espacio de propuestas
+        i: Participació
+        i1: Espai de debat
+        i2: Espai de propostes
         text: |-
           El nuevo Portal de Gobierno Abierto está dividido en tres partes: Participación, Transparencia y Datos Abiertos (verás los enlaces en la parte superior derecha).
           >**I. Participación:** Donde poder decidir qué ciudad queremos tener (a través de propuestas ciudadanas, espacios de debate, presupuestos participativos, legislación colaborativa, y muchos otros procesos que iremos implementando).
           **II. Transparencia:** En este espacio se publicarán todos los datos relativos a quién y cómo se gestiona Sant Andreu de la Barca (nombres de los responsables, cargos, sueldos, planes de gobierno, contratos, agendas de los responsables...). Además es el espacio donde ejercer el derecho de acceso a la información, pudiendo solicitar cualquier información sobre el Ayuntamiento de Sant Andru de la Barca de manera fácil y rápida.
           **III. Datos Abiertos:** En este espacio se cuelgan las bases de datos que tiene el Ayuntamiento, para que cualquiera pueda usar toda la información directamente, sin necesidad ni siquiera de preguntar. También se puede solicitar la publicación de más bases de datos.
 
-          Inauguramos el nuevo portal con la nueva sección de Participación, y en breve añadiremos las nuevas secciones de Transparencia y Datos Abiertos (así que mantenemos por el momento los enlaces a las páginas al respecto que ya existían).
+          Inaugurem el nou portal amb la nova secció de Participació, i en breu afegirem les noves seccions de Transparència i Dades Obertes (així que mantindrem pel moment els enllaços a les pàgines al respecte que ja existien).
           ## <a id='i'></a> I. Participación
-          El apartado de participación comprenderá diferentes mecanismos de participación: propuestas ciudadanas, espacios de debate, presupuestos participativos, legislación colaborativa, entre muchos otros. Por el momento presentamos el espacio de debate, y muy pronto las propuestas ciudadanas.
+          L'apartat de participació comprendrà diferents mecanismes de participació: propostes ciutadanes, espais de debat, pressupostos participatius, legislació col·laborativa, entre molts d'altres. De moment presentem l'espai de debat, i molt aviat les propostes ciutadanes.
           ## <a id='i1'></a>I.I. Espacio de debate
-          En este espacio, cualquier persona puede abrir un hilo de discusión sobre cualquier tema, creando un espacio independiente donde la gente podrá debatir sobre el tema propuesto. De esta manera, en este espacio digital convivirán cada día cientos de espacios de debate distintos entre los que la ciudadanía podrá pasearse, sumándose a los que más les interese.
+          En aquest espai, qualsevol persona por obrir un fil de discussió sobre qualsevol tema, creant un espai independent on la gent podrà debatre sobre el tema proposat. D'aquesta manera, en aquest espai digital conviuran cada dia centenars d'espais de debat diferents entre els que la ciutadania podrà passejar-se, afegint-s'hi als que més li interessi.
 
-          Tanto los hilos, como los comentarios podrán ser valorados por cualquiera, de tal manera que será la propia ciudadanía, y nadie en su nombre, la que decida cuáles son los temas más importantes en cada momento. Estos serán presentados en la portada del espacio, pudiendo por supuesto accederse a todos los demás temas en páginas posteriores, o usando otros criterios de ordenación (los temas con más comentarios, los más nuevos, los más controvertidos, etc.).
+          Tant els fils, com els comentaris podran ser valorats per qualsevol, de tal manera que serà la pròpia ciutadania, i ningú en el seu nom, la que decideixi quins son els temes més important en cada moment. Aquests seran presentats a la portada de l'espai, poguent per suposat accedir a tots els atres temes en pàgines posteriors, o utilitzant altres criteris d'ordenació (els temes amb més comentaris, els més nous, els més controvertits, etc.).
 
-          Cada uno de los trabajadores del Ayuntamiento tiene un usuario propio, que será resaltado como tal, permitiendo que participen en los debates al mismo nivel que todos los demás ciudadanos. Esto permitirá crear espacios de comunicación directos entre unos y otros, evitando los inconvenientes que implica la comunicación medidada, y respondiendo a un planteamiento claro por parte del nuevo gobierno de Sant Andreu de la Barca por el cual el Ayuntamiento trabaja para la ciudadanía, y ante ella debe responder.
+          Cadascun dels treballadors de l'Ajuntament té un usuari propi, que serà ressaltat com a tal, permetent que participin en els debats al mateix nivell que tots els altres ciutadans. Això permetrà crear espais de comunicació directes entre uns i altres, evitant els inconvenients que implica la comunicació intervinguda, i responent a un plantejament clar per part del nou govern de Sant Andreu de la Barca pel qual l'Ajuntament treballa per a la ciutadania, i davant d'ella ha de respondre.
           ## <a id='i2'></a> I.I. Espacio de propuestas
-          En este espacio, cualquier persona puede proponer una iniciativa con la intención de recabar los suficientes apoyos como para que la idea pase a ser consultada a toda la ciudadanía con caracter vinculante.
+          En aquest espai, qualsevol persona pot proposar una iniciativa amb la intenció de recaptar el suficient suport com per a que la idea passi a ser consultada a tota la ciutadania amb caràcter vinculant.
 
-          Las propuestas pueden ser apoyadas por ciudadanos empadronados en Sant Andreu de la Barca que hayan verificado su cuenta en la plataforma de participación, de tal manera que será la propia ciudadanía, y nadie en su nombre, la que decida cuáles son las propuestas que merecen la pena ser llevadas a cabo.
+          Les propostes poden ser recolzades per ciutadans empadronats a Sant Andreu de la Barca que hagin verificat el seu compte a la plataforma de participació, de tal manera que serà la pròpia ciutadania, i ningú en el seu nom, la que deicideixi quines son les propostes que valen la pena ser dutes a terme.
 
-          Una vez que una propuesta alcance una cantidad de apoyos equivalente al 2% del censo de XXXX (unos 53000), automaticamente pasa a ser estudiada por un grupo de trabajo del Ayuntamiento y pasará a la siguiente fase de consulta popular, en la que la ciudadanía de XXXX votará si se lleva a cabo o no. El plazo máximo para recabar los apoyos necesarios será de 12 meses.
+          Un cop que una proposta arribi a una quantitat de suports equivalent al 2% del cens de XXXX (uns 53000), automàticament passa a ser estudiada per un grup de treball de l'Ajuntament i passarà a la següent fase de consulta propular, en la que la ciutadania de XXXX votarà si es duu a terme o no. El termini màxim per a recollir els suports necessaris serà de 12 mesos.
       how_to_use:
         text: |-
-          Utilízalo en tu municipio libremente o ayúdanos a mejorarlo, es software libre.
+          Utilitza'l en el teu municipi lliurement o ajuda'ns a millorar-lo, és software lliure.
 
-          Este Portal de Gobierno Abierto usa la [aplicación Consul](https://github.com/ayuntamientomadrid 'github consul' ) que es software libre, con [licencia AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html 'AGPLv3 gnu' ), esto significa en palabras sencillas, que cualquiera puede libremente usar el código, copiarlo, verlo en detalle, modificarlo, y redistribuirlo al mundo con las modificaciones que quiera (manteniendo el que otros puedan a su vez hacer lo mismo). Porque creemos que la cultura es mejor y más rica cuando se libera.
+          Aquest portal de Govern Obert utilitza la [aplicación Consul](https://github.com/ayuntamientomadrid 'github consul' ) que és software lliure, amb [licencia AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html 'AGPLv3 gnu' ), això significa en paraules senzilles, que qualsevol pot lliurement utilitza el codi, copiar-lo, veure'l en detall, modificar-lo, i redistribuir-lo al món amb les modificacions que vulgui (mantenint el que altres puguin a la vegada fer el mateix). Perqué creiem que la cultura és millor i més rica quan s'allibera.
 
-          No sólo puedes utilizar libremente este portal en tu municipio, sino que desde el Ayuntamiento de Sant Andreu de la Barcelona vamos a ayudarte todo lo posible a que lo hagas, así que si estás interesado, escríbenos a <a href='mailto:governoviert@sabarca.cat'>governobert@sabarca.cat</a>
+          No solament pots utilitzar lliurement aquest portal en el teu municipi, sino que desde l'Ajuntament de Sant Andreu de la Barca anem a ajudar-te tot lo possible a que ho facis, així que si estàs interessat, escriu-nos a <a href='mailto:governoviert@sabarca.cat'>governobert@sabarca.cat</a>
 
-          Si eres programador, puedes ver el código y ayudarnos a mejorarlo en [aplicación Consul](https://github.com/ajuntament-sabarca 'github participa.sabarca.cat' ).
+          Si ets programador, pots veure el codi i ajudar-nos a millorar-lo a [aplicación Consul](https://github.com/ajuntament-sabarca 'github participa.sabarca.cat' ).
       titles:
-        faq: Soluciones a problemas técnicos (FAQ)
-        how_it_works: "¿Cómo funciona este Portal de Gobierno Abierto?"
-        how_to_use: Utilízalo en tu municipio
+        faq: Solucions a problemes tècnics (FAQ)
+        how_it_works: "¿Com funciona aquest Portal de Govern Obert?"
+        how_to_use: Utilitza'l al teu municipi
         meetings: L'alcalde als barris
-        participation: Participación y Transparencia en Sant Andreu de la Barca - Próximas novedades
-        participation_facts: Hechos sobre participación ciudadana y democracia directa
-        participation_world: Participación ciudadana directa en el mundo
-        proposals_info: "¿Cómo funcionan las propuestas ciudadanas?"
-        signature_sheet: Hojas de firmas
-        spending_proposals_info: "¿Qué son los presupuestos participativos?"
+        participation: Participació i Transparència a Sant Andreu de la Barca - Pròximes novetats
+        participation_facts: Fets sobre participació ciutadana i democràcia directa
+        participation_world: Participació ciutadana directa en el món
+        proposals_info: "¿Com funcionen les propostes ciutadanes?"
+        signature_sheet: Fulls de signatures
+        spending_proposals_info: "¿Què són els pressupostos participatius?"
     opendata:
-      go_old: Ir al Portal de Datos Abiertos
-      slogan_html: 'Estamos trabajando en el nuevo Portal de Datos Abiertos del Ayuntamiento de Sant Andreu de la Barca, por ahora puedes visitar el portal que existía hasta ahora:'
-      title: Datos abiertos
-    privacy: Política de Privacidad
+      go_old: Anar al Portal de Dades Obertes
+      slogan_html: "Estem treballant en el nou Portal de Dades Obertes de l'Ajuntament de Sant Andreu de la Barca, per ara pots visitar el portal que existia fins ara:"
+      title: Dades obertes
+    privacy: Política de Privacitat
     processes:
-      back: Volver
+      back: Tornar
       index:
         featured: Destacat
         process_1_title: Ordenança de Transparència i Administració Electrònica
-        process_1_description: Sant Andreu de la Barca disposarà d'un nou text que reguli la transparència i l'administració electrònica.
+        process_1_description: "Sant Andreu de la Barca disposarà d'un nou text que reguli la transparència i l'administració electrònica."
         process_1_button: Més informació sobre l'Ordenança
         process_2_title: Millora dels Parcs Infantils
         process_2_description: Comptem amb vosaltres perquè deicidim omplint una petita enquesta com voleu que millorem els parcs de Sant Andreu de la Barca.
         process_2_button: Més informació sobre les millores
-        process_3_title: "#PlenoAbierto"
-        process_3_description: Envía una propuesta o lanza una pregunta, y si están entre las cinco más votadas podrás formularla en persona a los grupos políticos en el Pleno Abierto del 24 de abril.
-        process_3_description_close: Apoya las propuestas y preguntas enviadas. Las cinco más votadas serán formuladas en persona a los grupos políticos en el Pleno Abierto del 24 de abril.
+        process_3_title: "#PleObert"
+        process_3_description: Envia una proposta o formula una pregunta, i si estan entre les cinc més votades podràs formular-la en persona als grups polítics en el Ple Obert del 24 d'abril.
+        process_3_description_close: Dóna suport a les propostes i preguntes enviades. Les cinc més votades seran formulades en persona als grups polítics en el Ple Obert del 24 d'abril.
         process_3_button: Enviar una proposta o pregunta
         process_3_button_close: Veure propostes i preguntes
         title: Procesos participatius
       process_1:
-        title: Ajuda'ns a millorar l'Ordenança de Transparència de Sant Andreu de la Barca
-        comment: dexa els teus comentaris
+        title: "Ajuda'ns a millorar l'Ordenança de Transparència de Sant Andreu de la Barca"
+        comment: deixa els teus comentaris
         text: |
-          Este es el texto sometido a consulta pública. En breve publicaremos el texto del proyecto inicial de Ordenanza que apruebe la Junta de Gobierno de la Ciudad de XXXX con las aportaciones ciudadanas que se hayan incluido.
+          Aquest és el text sotmès a consulta pública. En breu publicarem el text del projecte inicial d'Ordenança que aprovi la Junta de Govern de la Ciutat de XXXX amb les aportacions ciutadanes que s'hagin inclòs.
 
-          La Ordenanza regulará la publicidad activa, el derecho de acceso y la reutilización de la información pública, así como el registro de lobbies, desde un principio básico de máxima transparencia y divulgación de la información que genera el Ayuntamiento de XXXX y el resto de los sujetos obligados por la norma.
+          L'Ordenança regularà la publicitat activa, el dret d'accés i la reutilització de la informació pública, així com el registre de lobbies, des d'un principi bàsic de máxima transparència i divulgació de la informació que genera l'Ajuntament de XXXX i la resta de subjectes obligats per la norma.
 
-          Este texto, en cuya elaboración ha participado un nutrido grupo de representantes de diferentes áreas de gobierno y órganos directivos municipales, surge con la vocación de convertir la transparencia en uno de los ejes inspiradores de la actuación municipal y para lograr devolver la información que genera la Administración a sus verdaderos propietarios, los ciudadanos.
+          Aquest text, en l'elaboració del qual ha participat un gran grup de representants de diferents àrees de govern i òrgans directius municipals, sorgeix amb la vocació de convertir la transparència en un dels eixos inspiradors de l'actuació municipal i per a conseguir retornar la informació que genera l'Administració als seus veritables propietaris, els ciutadans.
 
-          El proceso de consulta pública finalizó el 31 de Enero de 2016.
+          El procés de consulta pública va finalitzar el 31 de Gener de 2016.
 
-        button: Ver borrador con comentarios ciudadanos
+        button: Veure esborrany amb comentaris ciutadans
       process_2:
         title: Millora dels Parcs Infantils
         text: Comptem amb vosaltres perquè deicidim omplint una petita enquesta com voleu que millorem els parcs de Sant Andreu de la Barca.
       process_3:
-        send_proposal: Enviar una propuesta
-        send_question: Hacer una pregunta
-        view_all: Ver propuestas y preguntas más votadas
-        view_proposals: Ver todas las propuestas enviadas
-        view_questions: Ver todas las preguntas enviadas
+        send_proposal: Enviar una proposta
+        send_question: Formular una pregunta
+        view_all: Veure propostes i preguntes més votades
+        view_proposals: Veure totes les propostes enviades
+        view_questions: Veure totes les preguntes enviades
     titles:
-      accessibility: Accesibilidad
-      conditions: Condiciones de uso
-      more_information: Más información
-      opendata: Datos abiertos
-      privacy: Política de Privacidad
+      accessibility: Accessibilitat
+      conditions: Condicions d'ús
+      more_information: Més informació
+      opendata: Dades obertes
+      privacy: Política de Privacitat
     verify:
-      code: Código que has recibido en tu carta
+      code: Codi que has rebut a la teva carta
       email: Email
-      info: 'Para verificar tu cuenta introduce los datos con los que te registraste:'
-      info_code: 'Ahora introduce el código que has recibido en tu carta:'
-      password: Contraseña
-      submit: Verificar mi cuenta
-      title: Verifica tu cuenta
-    while_unfinished_html: Mientras acabamos el nuevo portal, te invitamos a visitar el <a href="/blog" target="_blank" title="(se abre en ventana nueva)">blog del Área de Participación Ciudadana, Transparencia y Gobierno Abierto</a> para conocer nuestros avances y novedades; o la <a href="/">sección de Participación Ciudadana</a> donde poder decidir qué ciudad es la que quieres.
+      info: 'Per a verificar el teu compte introdueix les dades amb les que et vas enregistrar:'
+      info_code: 'Ara introdueix el codi que has rebut a la teva carta:'
+      password: Contrassenya
+      submit: Verificar el meu compte
+      title: Verifica el teu compte
+    while_unfinished_html: Mentre acabem el nou portal, t'invitem a visitar el <a href="/blog" target="_blank" title="(se abre en ventana nueva)">blog de l'Àrea de Participació Ciutadana, Transparència i Govern Obert</a> per a conèixer els nostres avenços i novetats; o la <a href="/">sección de Participación Ciudadana</a> on poder decidir quina ciutat és la que vols.
   participatory_budget:
     in_two_minutes:
-      date_1: 22 febrero - 31 marzo
-      date_1_info: Recogida de propuestas
+      date_1: 22 febrer - 31 març
+      date_1_info: Recollida de propostes
       date_2: 1 abril - 15 abril
       date_2_info: Apoyos
       date_3: 16 abril - 14 mayo
       date_3_info: Evaluación
       date_4: 15 mayo - 30 junio
-      date_4_info: Votación final
-      support_button: Ver resultado de la preselección
-      title_html: Tú decides cómo invertir 60 millones de euros<br> para tu ciudad
-      title_page: Presupuestos participativos
+      date_4_info: Votació final
+      support_button: Veure resultat de la preselecció
+      title_html: Tú decideixes com invertir 60 milions d'euros<br> per a la teva ciutat
+      title_page: Pressupostos participatius

@@ -44,7 +44,7 @@ es:
         text: |-
           Utilízalo en tu municipio libremente o ayúdanos a mejorarlo, es software libre.
 
-          Este Portal de Gobierno Abierto usa la [aplicación Consul](https://github.com/ayuntamientomadrid 'github consul' ) que es software libre, con [licencia AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html 'AGPLv3 gnu' ), esto significa en palabras sencillas, que cualquiera puede libremente usar el código, copiarlo, verlo en detalle, modificarlo, y redistribuirlo al mundo con las modificaciones que quiera (manteniendo el que otros puedan a su vez hacer lo mismo). Porque creemos que la cultura es mejor y más rica cuando se libera.
+          Este Portal de Gobierno Abierto usa la [aplicació participa.sabarca.cat](https://github.com/ayuntamientomadrid 'github consul' ) que es software libre, con [licencia AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html 'AGPLv3 gnu' ), esto significa en palabras sencillas, que cualquiera puede libremente usar el código, copiarlo, verlo en detalle, modificarlo, y redistribuirlo al mundo con las modificaciones que quiera (manteniendo el que otros puedan a su vez hacer lo mismo). Porque creemos que la cultura es mejor y más rica cuando se libera.
 
           No sólo puedes utilizar libremente este portal en tu municipio, sino que desde el Ayuntamiento de Sant Andreu de la Barca vamos a ayudarte todo lo posible a que lo hagas, así que si estás interesado, escríbenos a <a href='mailto:ag.gobiernoabierto@sabarca.cat'>ag.gobiernoabierto@sabarca.cat</a>
 
@@ -64,45 +64,6 @@ es:
       slogan_html: 'Estamos trabajando en el nuevo Portal de Datos Abiertos del Ayuntamiento de Sant Andreu de la Barca, por ahora puedes visitar el portal que existía hasta ahora:'
       title: Datos abiertos
     privacy: Política de Privacidad
-    #añado el subapartado processes que no estaba incluido en pages.es
-    processes:
-      back: Volver
-      index:
-        featured: Destacado
-        process_1_title: Ordenanza de Transparencia y Administración Electrónica
-        process_1_description: "Sant Andreu de la Barca dispondrá de un nuevo texto que regule la transparencia i la administración electrónica."
-        process_1_button: Más información sobre la Ordenanza
-        process_2_title: Mejora de los Parques Infantiles
-        process_2_description: Contamos con vosotros para que decidamos llenar una pequeña encuesta de como queréis que mejoremos los parques de Sant Andreu de la Barca.
-        process_2_button: Más información sobre las mejoras
-        process_3_title: "#PlenoAbierto"
-        process_3_description: Envia una propuesta o formula una pregunta, y si estan entre las cinco más votadas podrás formularla en persona a los grupos políticos en el Pleno Abierto del 24 d'abril.
-        process_3_description_close: Apoya a las propuestas y preguntas enviadas. Las cinco más votadas seran formuladas en persona a los grupos políticos en el Pleno Abierto del 24 de abril.
-        process_3_button: Enviar una propuesta o pregunta
-        process_3_button_close: Ver propuestas y preguntas
-        title: Procesos participativos
-      process_1:
-        title: "Ayúdanos a mejorar la Ordenanza de Transparencia de Sant Andreu de la Barca"
-        comment: deja tus comentarios
-        text: |
-          Este es el texto sometido a consulta pública. En breve publicaremos el texto del proyecto incial de Ordenanza que apruebe la Junta de Gobierno de la Ciudad de Sant Andreu de la Barca con las aportaciones ciudadanas que se hayan incluido.
-
-          La Ordenanza regulará la publicidad activa, el derecho de acceso y la reutilización de la información pública, así como el registro de lobbies, desde un principio bàsico de máxima transparencia y divulgación de la información de la información que genera el Ayuntamiento de Sant Andreu de la Barca y el resto de sujetos obligados por la norma.
-
-          Este texto, en la elaboración del cual ha participado un gran grupo de representantes de diferentes areas de gobierno y órganos directivos municipales, surge con la vocación de convertir la transparencia en uno de los ejes inspiradores de la actuación municipal y para conseguir retornar la información que genera la Administración a sus verdaderos propietarios, los ciudadanos.
-
-          El proceso de consulta pública finalizó el 31 de Enero de 2016.
-
-        button: Ver borrador con comentarios ciudadanos
-      process_2:
-        title: Mejora de los Parques infantiles
-        text: Contamos con vosotros para que decidamos llenando una pequeña encuesta de como quereis que mejoremos los parques de Sant Andreu de la Barca.
-      process_3:
-        send_proposal: Enviar una propuesta
-        send_question: Formular una pregunta
-        view_all: Ver propuestas y preguntas más votadas
-        view_proposals: Ver todas las propuestas enviadas
-        view_questions: Ver todas las preguntas enviadas
     titles:
       accessibility: Accesibilidad
       conditions: Condiciones de uso

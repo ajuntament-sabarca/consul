@@ -201,7 +201,7 @@ ca:
       consul_url: https://github.com/ajuntament-sabarca/participa.sabarca
       contact_us: Per a assistència tècnica entra a
       copyright: Ajuntament de Sant Andreu de la Barca, %{year}
-      description: Aquest portal utilitza la %{consul} que és %{open_source}.
+      description: Aquest portal utilitza l' %{consul} que és %{open_source}.
       faq: Assistència tècnica
       more_info: Més informació
       open_data_text: Totes les dades de l'Ajuntament són teves.
@@ -242,8 +242,10 @@ ca:
         Sant Andreu de la Barca ja és una d'elles.
       open_city_title: La ciutat que estimes serà la ciutat que vulguis.
       open_data: Dades obertes
+      open_gov: Govern %{open}
       processes: Processos participatius
       proposals: Propostes
+      see_all: Veure propostes
       spending_proposals: Processos Participatius
       valuation: Avaluació
   locale: Català

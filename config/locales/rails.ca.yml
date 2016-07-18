@@ -56,84 +56,84 @@ ca:
   datetime:
     distance_in_words:
       about_x_hours:
-        one: alrededor de 1 hora
-        other: alrededor de %{count} horas
+        one: al voltant '1 hora
+        other: al voltant de %{count} horas
       about_x_months:
-        one: alrededor de 1 mes
-        other: alrededor de %{count} meses
+        one: al voltant de 1 mes
+        other: al voltant de %{count} meses
       about_x_years:
-        one: alrededor de 1 año
-        other: alrededor de %{count} años
+        one: al voltant d'1 any
+        other: al voltant de %{count} anys
       almost_x_years:
-        one: casi 1 año
-        other: casi %{count} años
-      half_a_minute: medio minuto
+        one: quasi 1 any
+        other: quasi %{count} anys
+      half_a_minute: mig minut
       less_than_x_minutes:
-        one: menos de 1 minuto
-        other: menos de %{count} minutos
+        one: menys d'1 minut
+        other: menys de %{count} minuts
       less_than_x_seconds:
-        one: menos de 1 segundo
-        other: menos de %{count} segundos
+        one: menys d'1 segon
+        other: menys de %{count} segons
       over_x_years:
-        one: más de 1 año
-        other: más de %{count} años
+        one: més d'1 any
+        other: més de %{count} anys
       x_days:
-        one: 1 día
-        other: "%{count} días"
+        one: 1 dia
+        other: "%{count} dies"
       x_minutes:
         one: 1 minuto
-        other: "%{count} minutos"
+        other: "%{count} minuts"
       x_months:
         one: 1 mes
-        other: "%{count} meses"
+        other: "%{count} mesos"
       x_seconds:
         one: 1 segundo
-        other: "%{count} segundos"
+        other: "%{count} segons"
     prompts:
-      day: Día
+      day: Dia
       hour: Hora
-      minute: Minutos
+      minute: Minuts
       month: Mes
-      second: Segundos
-      year: Año
+      second: Segons
+      year: Any
   errors:
     format: "%{attribute} %{message}"
     messages:
-      accepted: debe ser aceptado
-      blank: no puede estar en blanco
-      present: debe estar en blanco
-      confirmation: no coincide
-      empty: no puede estar vacío
+      accepted: ha de ser acceptat
+      blank: no pot estar en blanc
+      present: ha d'estar en blanc
+      confirmation: no coincideix
+      empty: no pot estar en blanc
       equal_to: debe ser igual a %{count}
-      even: debe ser par
-      exclusion: está reservado
-      greater_than: debe ser mayor que %{count}
-      greater_than_or_equal_to: debe ser mayor que o igual a %{count}
-      inclusion: no está incluido en la lista
-      invalid: no es válido
-      less_than: debe ser menor que %{count}
-      less_than_or_equal_to: debe ser menor que o igual a %{count}
-      not_a_number: no es un número
-      not_an_integer: debe ser un entero
-      odd: debe ser impar
-      record_invalid: 'La validación falló: %{errors}'
+      even: ha de ser par
+      exclusion: està reservat
+      greater_than: ha de ser major que %{count}
+      greater_than_or_equal_to: ha de ser major que o igual a %{count}
+      inclusion: no està inclòs a la llista
+      invalid: no és vàlid
+      less_than: ha de ser menor que %{count}
+      less_than_or_equal_to: ha de ser menor que o igual a %{count}
+      not_a_number: no és un número
+      not_an_integer: ha de ser un enter
+      odd: ha de ser impar
+      record_invalid: 'La validació ha fallat: %{errors}'
       restrict_dependent_destroy:
-        one: No se puede eliminar el registro porque existe un %{record} dependiente
-        many: No se puede eliminar el registro porque existen %{record} dependientes
-      taken: ya está en uso
-      too_long: es demasiado largo (%{count} caracteres máximo)
-      too_short: es demasiado corto (%{count} caracteres mínimo)
-      wrong_length: no tiene la longitud correcta (%{count} caracteres exactos)
-      other_than: debe ser distinto de %{count}
-      invalid_date: "no es una fecha valida"
+        one: No es pot eliminar el registre perqué existeix un %{record} dependent
+        many: No es pot eliminar el registre perqué existeixen %{record} dependents
+      taken: ja està en ús
+      too_long: és massa llarg (%{count} caràcters màxim)
+      too_short: és massa curt (%{count} caràcters mínim)
+      wrong_length: no té la longitud correcte (%{count} caràcters exactes)
+      other_than: ha de ser diferent de %{count}
+      invalid_date: "no és una data vàlida"
     template:
-      body: 'Se encontraron problemas con los siguientes campos:'
+      body: "S'han trovat problemes amb els següents camps:"
       header:
-        one: No se pudo guardar este/a %{model} porque se encontró 1 error
-        other: No se pudo guardar este/a %{model} porque se encontraron %{count} errores
+        one: No es pot guardar aquest/a %{model} perqué s'ha trovat 1 error
+        other: No es pot guardar aquest/a %{model} perqué s'han trovat %{count} errors
   helpers:
     select:
-      prompt: Por favor seleccione
+      prompt: Per favor seleccioni
     submit:
       create: Crear %{model}
       submit: Guardar %{model}
@@ -158,11 +158,11 @@ ca:
       decimal_units:
         format: "%n %u"
         units:
-          billion: mil millones
-          million: millón
-          quadrillion: mil billones
+          billion: mil milions
+          million: milió
+          quadrillion: mil bilions
           thousand: mil
-          trillion: billón
+          trillion: bilió
           unit: ''
       format:
         delimiter: ''
@@ -187,8 +187,8 @@ ca:
         delimiter: ''
   support:
     array:
-      last_word_connector: " y "
-      two_words_connector: " y "
+      last_word_connector: " i "
+      two_words_connector: " i "
       words_connector: ", "
   time:
     am: am

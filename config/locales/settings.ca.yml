@@ -1,20 +1,20 @@
 ca:
   settings:
-    comments_body_max_length: "Longitud máxima de los comentarios"
-    official_level_1_name: "Cargos públicos de nivel 1"
-    official_level_2_name: "Cargos públicos de nivel 2"
-    official_level_3_name: "Cargos públicos de nivel 3"
-    official_level_4_name: "Cargos públicos de nivel 4"
-    official_level_5_name: "Cargos públicos de nivel 5"
-    max_ratio_anon_votes_on_debates: "Porcentaje máximo de votos anónimos por Debate"
-    max_votes_for_proposal_edit: "Número de votos en que una Propuesta deja de poderse editar"
-    max_votes_for_debate_edit: "Número de votos en que un Debate deja de poderse editar"
-    proposal_code_prefix: "Prefijo para los códigos de Propuestas"
-    votes_for_proposal_success: "Número de votos necesarios para aprobar una Propuesta"
-    email_domain_for_officials: "Dominio de email para cargos públicos"
-    per_page_code: "Código a incluir en cada página"
+    comments_body_max_length: "Longitud màxima dels comentaris"
+    official_level_1_name: "Càrrecs públics de nivell 1"
+    official_level_2_name: "Càrrecs públics de nivell 2"
+    official_level_3_name: "Càrrecs públics de nivell 3"
+    official_level_4_name: "Càrrecs públics de nivell 4"
+    official_level_5_name: "Càrrecs públics de nivell 5"
+    max_ratio_anon_votes_on_debates: "Percentatge màxim de vots anònims per Debat"
+    max_votes_for_proposal_edit: "Número de vots en que una Proposta deixa de poder-se editar"
+    max_votes_for_debate_edit: "Número de vots en que un Debat deixa de poder-se editar"
+    proposal_code_prefix: "Prefix per als codis de Propostes"
+    votes_for_proposal_success: "Número de vots necessaris per a aprovar una Proposta"
+    email_domain_for_officials: "Domini d'email per a càrrecs públics"
+    per_page_code: "Codi a incloure a cada pàgina"
     feature:
-      debates: Debates
-      spending_proposals: Propuestas de inversión
+      debates: Debats
+      spending_proposals: Propostes d'inversió
       spending_proposal_features:
-        voting_allowed: Votaciones sobre propuestas de inversión.
+        voting_allowed: Votacions sobre propostes d'inversió

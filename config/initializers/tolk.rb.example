@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-# Tolk config file. Generated on June 09, 2016 09:20
+# Tolk config file. Generated on June 28, 2016 12:11
 # See github.com/tolk/tolk for more informations
 
 Tolk.config do |config|

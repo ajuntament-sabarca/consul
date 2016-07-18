@@ -2,59 +2,59 @@
 ca:
   valuation:
     menu:
-      title: Evaluación
-      spending_proposals: Propuestas de inversión
+      title: Evaluació
+      spending_proposals: Propostes d'inversió
     spending_proposals:
       index:
-        geozone_filter_all: Todos los ámbitos de actuación
+        geozone_filter_all: Tots els àmbits d'actuació
         filters:
-          valuation_open: Abiertas
-          valuating: En evaluación
-          valuation_finished: Evaluación finalizada
-        title: Propuestas de inversión para presupuestos participativos
+          valuation_open: Obertes
+          valuating: En evaluació
+          valuation_finished: Evaluació finalitzada
+        title: Propostes d'inversió per a pressupostos participatius
         edit: Editar
         valuators_assigned:
-          one: Evaluador asignado
-          other: "%{count} evaluadores asignados"
-        no_valuators_assigned: Sin evaluador
+          one: Evaluador assignat
+          other: "%{count} evaluadors assignats"
+        no_valuators_assigned: Sense evaluador
       show:
-        back: Volver
-        heading: Propuesta de inversión
-        info: Datos de envío
-        association_name: Asociación
-        by: Enviada por
-        sent: Fecha de creación
-        geozone: Ámbito
+        back: Tornar
+        heading: Proposta d'inversió
+        info: Dades d'enviament
+        association_name: Associació
+        by: Enviada per
+        sent: Data de creació
+        geozone: Àmbit
         dossier: Informe
         edit_dossier: Editar informe
-        price: Coste
-        price_first_year: Coste en el primer año
+        price: Cost
+        price_first_year: Cost en el primer any
         currency: "€"
-        feasibility: Viabilidad
+        feasibility: Viabilitat
         feasible: Viable
         not_feasible: No viable
-        undefined: Sin definir
-        valuation_finished: Informe finalizado
-        time_scope: Plazo de ejecución
-        internal_comments: Comentarios internos
+        undefined: Sense definir
+        valuation_finished: Informe finalitzat
+        time_scope: Termini d'execució
+        internal_comments: Comentaris interns
         responsibles: Responsables
-        assigned_admin: Administrador asignado
-        assigned_valuators: Evaluadores asignados
-        vote_count: Votos
+        assigned_admin: Administrador assignat
+        assigned_valuators: Evaluadors assignats
+        vote_count: Vots
       edit:
         dossier: Informe
-        price_html: "Coste (%{currency}) <small>(dato público)</small>"
-        price_first_year_html: "Coste en el primer año (%{currency}) <small>(opcional, privado)</small>"
+        price_html: "Cost (%{currency}) <small>(dada pública)</small>"
+        price_first_year_html: "Cost en el primer any (%{currency}) <small>(opcional, privat)</small>"
         currency: "€"
-        price_explanation_html: "Informe de coste <small>(opcional, dato público)</small>"
-        feasibility: Viabilidad
+        price_explanation_html: "Informe de cost <small>(opcional, dada pública)</small>"
+        feasibility: Viabilitat
         feasible: Viable
         not_feasible: Inviable
-        undefined_feasible: Sin decidir
-        feasible_explanation_html: "Informe de inviabilidad <small>(en caso de que lo sea, dato público)</small>"
-        valuation_finished: Informe finalizado
-        time_scope_html: "Plazo de ejecución <small>(opcional, dato no público)</small>"
-        internal_comments_html: "Comentarios y observaciones <small>(para responsables internos, dato no público)</small>"
-        save: Guardar cambios
+        undefined_feasible: Sense decidir
+        feasible_explanation_html: "Informe d'inviabilitat <small>(en cas de que ho sigui, dada pública)</small>"
+        valuation_finished: Informe finalitzat
+        time_scope_html: "Termini d'execució <small>(opcional, dada no pública)</small>"
+        internal_comments_html: "Comentaris i observacions <small>(per a responsables interns, dada no pública)</small>"
+        save: Guardar canvis
       notice:
-        valuate: "Informe actualizado"
+        valuate: "Informe actualitzat"

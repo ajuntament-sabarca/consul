@@ -53,227 +53,227 @@ ca:
       hidden_comments: Comentaris ocults
       hidden_debates: Debats ocults
       hidden_proposals: Propostes ocultes
-      hidden_users: Usuarios bloquejats
+      hidden_users: Usuaris bloquejats
       incomplete_verifications: Verificacions incompletes
       moderators: Moderadors
-      newsletter: Envío de Newsletters
-      valuators: Evaluadores
-      officials: Cargos públicos
-      organizations: Organizaciones
-      settings: Configuración global
-      spending_proposals: Propuestas de inversión
-      stats: Estadísticas
+      newsletter: Enviament de Newsletters
+      valuators: Evaluadors
+      officials: Càrrecs públics
+      organizations: Organitzacions
+      settings: Configuració global
+      spending_proposals: Propostes d'inversió
+      stats: Estadístiques
     moderators:
       index:
-        title: Moderadores
+        title: Moderadors
       moderator:
-        add: Añadir
-        delete: Borrar
+        add: Afegir
+        delete: Esborrar
       search:
-        email_placeholder: Buscar usuario por email
-        search: Buscar
-        user_not_found: Usuario no encontrado
+        email_placeholder: Cercar usuari per email
+        search: Cercar
+        user_not_found: Usuari no trobat
     newsletters:
       index:
-        title: Envío de newsletters
-        button: Descargar zip con lista de usuarios
+        title: Enviament de newsletters
+        button: Descarregar zip amb llista d'usuaris
     valuators:
       index:
-        title: Evaluadores
+        title: Evaluadors
       valuator:
-        description_placeholder: "Descripción (opcional)"
-        user_found: Usuario encontrado
-        add: Añadir como evaluador
+        description_placeholder: "Descripció (opcional)"
+        user_found: Usuario trobat
+        add: Afegir com a evaluador
       search:
-        email_placeholder: Buscar usuario por email
-        search: Buscar
-        user_not_found: Usuario no encontrado
+        email_placeholder: Cercar usuari per mail
+        search: Cercar
+        user_not_found: Usuari no trobat
       summary:
-        title: Resumen de evaluación de propuestas de inversión
+        title: Resum d'evaluació de propostes d'inversió
         valuator_name: Evaluador
-        finished_and_feasible_count: Finalizadas viables
-        finished_and_unfeasible_count: Finalizadas inviables
-        finished_count: Finalizadas
-        in_evaluation_count: En evaluación
+        finished_and_feasible_count: Finalitzades viables
+        finished_and_unfeasible_count: Finalitzades inviables
+        finished_count: Finalitzades
+        in_evaluation_count: En evaluació
         total_count: Total
-        cost: Coste total
+        cost: Cost total
     officials:
       edit:
-        back: Volver
-        destroy: Eliminar condición de 'Cargo Público'
-        title: 'Cargos Públicos: Editar usuario'
+        back: Tornar
+        destroy: "Eliminar condició de 'Càrrec Públic'"
+        title: 'Càrrecs Públics: Editar usuari'
       flash:
-        official_destroyed: 'Datos guardados: el usuario ya no es cargo público'
-        official_updated: Datos del cargo público guardados
+        official_destroyed: "Dades guardades: l'usuari ja no és càrrec públic"
+        official_updated: Dades del càrrec públic guardades
       index:
-        title: Cargos Públicos
-      level_0: No es cargo público
-      level_1: Nivel 1
-      level_2: Nivel 2
-      level_3: Nivel 3
-      level_4: Nivel 4
-      level_5: Nivel 5
+        title: Càrrecs Públics
+      level_0: No és càrrec públic
+      level_1: Nivell 1
+      level_2: Nivell 2
+      level_3: Nivell 3
+      level_4: Nivell 4
+      level_5: Nivell 5
       search:
-        edit_official: Editar cargo público
-        make_official: Convertir en cargo público
-        title: 'Cargos Públicos: Búsqueda de usuarios'
+        edit_official: Editar càrrec públic
+        make_official: Convertir en càrrec públic
+        title: "Càrrecs Públics: Recerca d'usuaris"
     organizations:
       index:
-        filter: Filtro
+        filter: Filtre
         filters:
-          all: Todas
-          pending: Pendientes
-          rejected: Rechazadas
-          verified: Verificadas
+          all: Totes
+          pending: Pendents
+          rejected: Rebutjades
+          verified: Verificades
         hidden_count:
-          one: Hay además una organización sin usuario o con el usuario bloqueado
-          other: Hay %{count} organizaciones sin usuario o con el usuario bloqueado
-        reject: Rechazar
-        rejected: Rechazada
-        search: Buscar
-        search_placeholder: Nombre, email o teléfono
-        title: Organizaciones
+          one: Hi ha a més una oganització sense usuari o amb l'usuari bloquejat
+          other: Hi ha %{count} organitzacions sense usuari o amb l'usuari bloquejat
+        reject: Rebutjar
+        rejected: Rebutjada
+        search: Cercar
+        search_placeholder: Nom, email o telèfon
+        title: Organitzacions
         verified: Verificada
         verify: Verificar
       search:
-        title: Buscar Organizaciones
+        title: Cercar Organitzacions
     proposals:
       index:
-        filter: Filtro
+        filter: Filtre
         filters:
-          all: Todas
-          with_confirmed_hide: Confirmadas
-          without_confirmed_hide: Pendientes
-        title: Propuestas ocultos
+          all: Totes
+          with_confirmed_hide: Confirmades
+          without_confirmed_hide: Pendents
+        title: Propostes ocultes
     settings:
       flash:
-        updated: Valor actualizado
+        updated: Valor actualitzat
       index:
-        title: Configuración global
+        title: Configuració global
         update_setting: Actualizar
-        feature_flags: Funcionalidades
+        feature_flags: Funcionalitats
         features:
-          enabled: "Funcionalidad activada"
-          disabled: "Funcionalidad desactivada"
+          enabled: "Funcionalitat activada"
+          disabled: "Funcionalitat desactivada"
           enable: "Activar"
           disable: "Desactivar"
     shared:
       proposal_search:
-        button: Buscar
-        placeholder: Buscar propuestas por título, código, descripción o pregunta
+        button: Cercar
+        placeholder: Cercar propostes per títol, codi, descripció o pregunta
       spending_proposal_search:
-        button: Buscar
-        placeholder: Buscar propuestas por título o descripción
+        button: Cercar
+        placeholder: Cercar propostes per títol o descripció
       user_search:
-        button: Buscar
-        placeholder: Buscar usuario por nombre o email
+        button: Cercar
+        placeholder: Cercar usuari per nom o email
     spending_proposals:
       index:
-        geozone_filter_all: Todos los ámbitos de actuación
-        administrator_filter_all: Todos los administradores
-        valuator_filter_all: Todos los evaluadores
-        tags_filter_all: Todas las etiquetas
-        max_per_geozone: Corte por distrito
-        max_for_no_geozone: Corte por ciudad
+        geozone_filter_all: Tots els àmbits d'actuació
+        administrator_filter_all: Tots els adminstradors
+        valuator_filter_all: Tots els evaluadors
+        tags_filter_all: Totes les etiquetes
+        max_per_geozone: Tall per districte
+        max_for_no_geozone: Tall per ciutat
         filters:
-          valuation_open: Abiertas
-          without_admin: Sin administrador
-          managed: Gestionando
-          valuating: En evaluación
-          valuation_finished: Evaluación finalizada
-          all: Todas
-        title: Propuestas de inversión para presupuestos participativos
-        assigned_admin: Administrador asignado
-        no_admin_assigned: Sin admin asignado
-        no_valuators_assigned: Sin evaluador
-        summary_link: "Resumen de propuestas"
-        valuator_summary_link: "Resumen de evaluadores"
+          valuation_open: Obertes
+          without_admin: Sense administrador
+          managed: Gestionant
+          valuating: En evaluació
+          valuation_finished: Evaluació finalitzada
+          all: Totes
+        title: Propostes d'inversió per a pressupostos participatius
+        assigned_admin: Administrador assignat
+        no_admin_assigned: Sense admin assignat
+        no_valuators_assigned: Sense evaluador
+        summary_link: "Resum de propostes"
+        valuator_summary_link: "Resum d'evaluadors"
         feasibility:
           feasible: "Viable (%{price})"
           not_feasible: "Inviable"
-          undefined: "Sin definir"
+          undefined: "Sense definir"
       show:
-        assigned_admin: Administrador asignado
-        assigned_valuators: Evaluadores asignados
-        back: Volver
-        classification: Clasificación
-        heading: Propuesta de inversión %{id}
+        assigned_admin: Administrador assignat
+        assigned_valuators: Evaluadors assignats
+        back: Tornar
+        classification: Classificació
+        heading: Proposta d'inversió %{id}
         edit: Editar
-        edit_classification: Editar clasificación
-        association_name: Asociación
+        edit_classification: Editar classificació
+        association_name: Associació
         by: Autor
-        sent: Fecha
-        geozone: Ámbito
+        sent: Data
+        geozone: Àmbit
         dossier: Informe
         edit_dossier: Editar informe
-        tags: Etiquetas
-        undefined: Sin definir
+        tags: Etiquetes
+        undefined: Sense definir
       edit:
-        classification: Clasificación
-        assigned_valuators: Evaluadores
-        submit_button: Actualizar
-        tags: Etiquetas
-        tags_placeholder: "Escribe las etiquetas que desees separadas por comas (,)"
-        undefined: Sin definir
+        classification: Classificació
+        assigned_valuators: Evaluadors
+        submit_button: Actualitzar
+        tags: Etiquetes
+        tags_placeholder: "Escriu les etiquetes que desitjis separades per comes (,)"
+        undefined: Sense definir
       summary:
-        title: Resumen de propuestas de inversión
-        geozone_name: Ámbito de ciudad
-        finished_and_feasible_count: Finalizadas viables
-        finished_and_unfeasible_count: Finalizadas inviables
-        finished_count: Finalizadas
-        in_evaluation_count: En evaluación
+        title: Resum de propostes d'inversió
+        geozone_name: Àmbit de ciutat
+        finished_and_feasible_count: Finalitzades viables
+        finished_and_unfeasible_count: Finalitzades inviables
+        finished_count: Finalitzades
+        in_evaluation_count: En evaluació
         total_count: Total
-        cost_for_geozone: Coste total
+        cost_for_geozone: Cost total
     stats:
       show:
-        stats_title: Estadísticas
+        stats_title: Estadístiques
         summary:
-          comment_votes: Votos en comentarios
-          comments: Comentarios
-          debate_votes: Votos en debates
-          debates: Debates
-          open_answer_votes: Votos preguntas abiertas
-          proposal_votes: Votos en propuestas
-          proposals: Propuestas
-          spending_proposal_votes: Votos Propuesta Inversión
-          spending_proposals: Propuestas de inversión
-          surveys: Encuestas rellenadas
-          unverified_users: Usuarios sin verificar
-          user_level_three: Usuarios de nivel tres
-          user_level_two: Usuarios de nivel dos
-          users: Usuarios
-          verified_users: Usuarios verificados
-          verified_users_who_didnt_vote_proposals: Usuarios verificados que no han votado propuestas
-          visits: Visitas
-          votes: Votos
-        spending_proposals_title: Propuestas de inversión
-        visits_title: Visitas
+          comment_votes: Vots en comentaris
+          comments: Comentaris
+          debate_votes: Vots en debats
+          debates: Debats
+          open_answer_votes: Vots preguntes obertes
+          proposal_votes: Vots en propostes
+          proposals: Propostes
+          spending_proposal_votes: Vots Proposta Inversió
+          spending_proposals: Propostes d'inversión
+          surveys: Enquestes omplertes
+          unverified_users: Usuaris sense verificar
+          user_level_three: Usuaris de nivell tres
+          user_level_two: Usuaris de nivell dos
+          users: Usuaris
+          verified_users: Usuaris verificats
+          verified_users_who_didnt_vote_proposals: Usuaris verificats que no han votat propostes
+          visits: Visites
+          votes: Vots
+        spending_proposals_title: Propostes d'inversió
+        visits_title: Visites
     tags:
       create: Crear Tema
       destroy: Eliminar Tema
       index:
-        add_tag: Añade un nuevo tema de debate
-        title: Temas de debate
-      mark_as_featured: Proponer tema al crear debate
+        add_tag: Afegeix un nou tema de debat
+        title: Temes de debat
+      mark_as_featured: Proposar tema al crear debat
       name:
-        placeholder: Escribe el nombre del tema
-      update: Actualizar Tema
+        placeholder: Escriu el nom del tema
+      update: Actualitzar Tema
     users:
       index:
-        filter: Filtro
+        filter: Filtre
         filters:
-          all: Todos
-          with_confirmed_hide: Confirmados
-          without_confirmed_hide: Pendientes
-        title: Usuarios bloqueados
+          all: Tots
+          with_confirmed_hide: Confirmats
+          without_confirmed_hide: Pendents
+        title: Usuaris bloquejats
       show:
-        back: Volver
+        back: Tornar
         email: 'Email:'
-        hidden_at: 'Bloqueado:'
-        registered_at: 'Fecha de alta:'
-        title: Actividad del usuario %{user}
+        hidden_at: 'Bloquejat:'
+        registered_at: "Data d'alta:"
+        title: Activitat de l'usuari %{user}
     verifications:
       index:
-        phone_not_given: No ha dado su teléfono
+        phone_not_given: No ha donat el seu telèfon
         sms_code_not_confirmed: No ha introduït el seu codi de seguretat
         title: Verificacions incompletes

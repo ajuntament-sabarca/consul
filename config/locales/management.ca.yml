@@ -51,49 +51,49 @@ ca:
       support_spending_proposals: Recolzar propts. d'inversió
       title: Gestió
       users: Usuarios
-      edit_user_accounts: Editar compte d'usuario
+      edit_user_accounts: Editar compte d'usuari
     permissions:
-      create_proposals: Crear nuevas propuestas
-      debates: Participar en debates
-      support_proposals: Apoyar propuestas
-      vote_proposals: Participar en las votaciones finales
+      create_proposals: Crear noves propostes
+      debates: Participar en debats
+      support_proposals: Recolzar propostes
+      vote_proposals: Participar a les votacions finals
     print:
-      proposals_info: Haz tu propuesta en http://participa.sabarca.cat.cat.es
-      proposals_note: Las propuestas más apoyadas serán llevadas a votación. Y si las acepta una mayoría, el Ayuntamiento las llevará a cabo.
-      proposals_title: 'Propuestas:'
-      spending_proposals_info: Participa en http://participa.sabarca.cat.cat.es
-      spending_proposals_note: Los presupuestos participativos se invertirán en las propuestas de inversión más apoyadas.
-    print_info: Imprimir esta información
+      proposals_info: Fes la teva proposta a http://participa.sabarca.cat.cat.es
+      proposals_note: Les propostes més recolzades seran dutes a votació. I si les accepta la majoria, l'Ajuntament les durà a terme.
+      proposals_title: 'Propostes:'
+      spending_proposals_info: Participa a http://participa.sabarca.cat.cat.es
+      spending_proposals_note: Els pressupostos participatius s'invertiran a les propostes d'inversió més recolzades.
+    print_info: Imprimir aquesta información
     proposals:
       alert:
-        unverified_user: Este usuario no está verificado
-      create_proposal: Crear propuesta
+        unverified_user: Aquest usuari no està verificat
+      create_proposal: Crear proposta
       print:
         print_button: Imprimir
     spending_proposals:
       alert:
-        unverified_user: Este usuario no está verificado
-      create: Crear propuesta de inversión
+        unverified_user: Aquest usuari no està verificat
+      create: Crear proposta d'inversió
       filters:
-        unfeasible: Propuestas de inversión no viables
-        by_geozone: "Propuestas de inversión con ámbito: %{geozone}"
+        unfeasible: Propostes d'inversió no viables
+        by_geozone: "Propostes d'inversió amb àmbit: %{geozone}"
       print:
         print_button: Imprimir
       search_results:
-        one: " que contiene '%{search_term}'"
-        other: " que contienen '%{search_term}'"
+        one: " que conté '%{search_term}'"
+        other: " que contenen '%{search_term}'"
     sessions:
-      signed_out: Has cerrado la sesión correctamente.
-      signed_out_managed_user: Se ha cerrado correctamente la sesión del usuario.
-    username_label: Nombre de usuario
+      signed_out: Has tancat la sessió correctament.
+      signed_out_managed_user: "S'ha tancat correctament la sessió d'usuari."
+    username_label: Nom d'usuari
     users:
-      create_user: Crear nueva cuenta de usuario
-      create_user_info: 'Procedemos a crear un usuario con la siguiente información:'
-      create_user_submit: Crear usuario
-      create_user_success_html: Hemos enviado un correo electrónico a <b>%{email}</b> para verificar que es suya. El correo enviado contiene un link que el usuario deberá pulsar. Entonces podrá seleccionar una clave de acceso, y entrar en la web de participación.
-      erased_notice: Cuenta de usuario borrada.
-      erased_by_manager: "Borrada por el manager: %{manager}"
-      erase_account_link: Borrar cuenta
-      erase_account_confirm: ¿Seguro que quieres borrar a este usuario? Esta acción no se puede deshacer
-      erase_warning: Esta acción no se puede deshacer. Por favor asegurese de que quiere eliminar esta cuenta.
-      erase_submit: Borrar cuenta
+      create_user: Crear nou compte d'usuari
+      create_user_info: 'Procedim a crear un usuari amb la següent informació:'
+      create_user_submit: Crear usuari
+      create_user_success_html: Hem enviat un correu electrònic a <b>%{email}</b> per a verificar que es vostre. El correu enviat conté un link que l'usuari haurà de prèmer. Llavors podrà seleccionar una clau d'accés, i entrar a la web de participació.
+      erased_notice: Compte d'usuari esborrat.
+      erased_by_manager: "Esborrat pel mànager por el manager: %{manager}"
+      erase_account_link: Esborrar compte
+      erase_account_confirm: ¿Segur que vols esborrar aquest compte d'usuari? Aquest compte no es pot desfer
+      erase_warning: Aquesta acció no es pot desfer. Per favor asseguri's de que vol esborrar aquest compte
+      erase_submit: Esborrar compte

@@ -3,74 +3,74 @@ ca:
   moderation:
     comments:
       index:
-        block_authors: Bloquear autores
-        confirm: "¿Estás seguro?"
+        block_authors: Bloquejar autors
+        confirm: "¿Estàs segur?"
         filter: Filtrar
         filters:
-          all: Todos
-          pending_flag_review: Pendientes
-          with_ignored_flag: Marcados como revisados
+          all: Tots
+          pending_flag_review: Perdents
+          with_ignored_flag: Marcats com a revisats
         headers:
-          comment: Comentario
+          comment: Comentari
           moderate: Moderar
-        hide_comments: Ocultar comentarios
-        ignore_flags: Marcar como revisados
-        order: Orden
+        hide_comments: Ocultar comentaris
+        ignore_flags: Marcar com a revisats
+        order: Ordre
         orders:
-          flags: Más denunciados
-          newest: Más nuevos
-        title: Comentarios
+          flags: Més denunciats
+          newest: Més nous
+        title: Comentaris
     dashboard:
       index:
-        title: Moderación
+        title: Moderació
     debates:
       index:
-        block_authors: Bloquear autores
-        confirm: "¿Estás seguro?"
+        block_authors: Bloquejar autors
+        confirm: "¿Estás segur?"
         filter: Filtrar
         filters:
-          all: Todos
-          pending_flag_review: Pendientes
-          with_ignored_flag: Marcados como revisados
+          all: Tots
+          pending_flag_review: Pendents
+          with_ignored_flag: Marcats com a revisats
         headers:
-          debate: Debate
+          debate: Debat
           moderate: Moderar
-        hide_debates: Ocultar debates
-        ignore_flags: Marcar como revisados
-        order: Orden
+        hide_debates: Ocultar debats
+        ignore_flags: Marcar como revisats
+        order: Ordre
         orders:
-          created_at: Más nuevos
-          flags: Más denunciados
-        title: Debates
+          created_at: Més nous
+          flags: Més denunciats
+        title: Debats
     menu:
-      flagged_comments: Comentarios
-      flagged_debates: Debates
-      proposals: Propuestas
-      users: Bloquear usuarios
+      flagged_comments: Comentaris
+      flagged_debates: Debats
+      proposals: Propostes
+      users: Bloquejar usuaris
     proposals:
       index:
-        block_authors: Bloquear autores
-        confirm: "¿Estás seguro?"
-        filter: Filtro
+        block_authors: Bloquejar autors
+        confirm: "¿Estás segur?"
+        filter: Filtre
         filters:
-          all: Todas
-          pending_flag_review: Pendientes de revisión
-          with_ignored_flag: Marcadas como revisadas
+          all: Totes
+          pending_flag_review: Pendents de revisió
+          with_ignored_flag: Marcades com a revisades
         headers:
           moderate: Moderar
-          proposal: Propuesta
-        hide_proposals: Ocultar Propuestas
-        ignore_flags: Marcar como revisadas
-        order: Ordenar por
+          proposal: Proposta
+        hide_proposals: Ocultar propostes
+        ignore_flags: Marcar como a revisades
+        order: Ordenar per
         orders:
-          created_at: Más recientes
-          flags: Más denunciadas
-        title: Propuestas
+          created_at: Més recents
+          flags: Més denunciades
+        title: Propostes
     users:
       index:
-        hidden: Bloqueado
-        hide: Bloquear
-        search: Buscar
-        search_placeholder: email o nombre de usuario
-        title: Bloquear usuarios
-      notice_hide: Usuario bloqueado. Se han ocultado todos sus debates y comentarios.
+        hidden: Bloquejat
+        hide: Bloquejar
+        search: Cercar
+        search_placeholder: email o nom d'usuari
+        title: Bloquejar usuaris
+      notice_hide: Usuari bloquejat. S'han ocultat tots els seus debats i comentaris.
